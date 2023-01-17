@@ -2,7 +2,7 @@
 ### Laravel package for get detail of movie from imdb
 
 ### install:
-<code>composer require somting</code>
+<code>composer require hasan-22/movie-detail</code>
 
 
 <p>Your use package like this</p>
