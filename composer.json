@@ -1,0 +1,29 @@
+{
+    "name": "hasan/movie-detail",
+    "description": "Get the movie detail with imdb",
+    "keywords": [
+        "hasan",
+        "laravel",
+        "Movie-detail",
+        "Movie",
+        "imdb"
+    ],
+    "homepage": "https://github.com/HASSAN-22/movie-detail",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hasan",
+            "email": "armiaevil@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "paquettg/php-html-parser": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Movie\\": "src/"
+        }
+    }
+}
